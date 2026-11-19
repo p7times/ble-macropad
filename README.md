@@ -16,8 +16,8 @@ Proiect pentru disciplina *Sisteme Distribuite și de Timp Real*.
 
 | Componentă | Alegere |
 |---|---|
-| Microcontroler | `[de ales: nRF52840 / STM32WB55]` |
-| RTOS | `[de ales: Zephyr / FreeRTOS]` |
+| Microcontroler | STM32WB55 |
+| RTOS | FreeRTOS |
 | Protocol | Bluetooth Low Energy (HID over GATT) |
 | Limbaj | C |
 
